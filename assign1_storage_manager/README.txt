@@ -1,15 +1,6 @@
 /*
 CS525 - Advanced Database Organization - Assignment 1 - Storage-Manager
 
-Submitted By:
-------------- 
-Group #39
-Members:
-        sgutha@hawk.iit.edu (Sona Shree Reddy Gutha, A20532599),
-        vpapudesibabu@hawk.iit.edu (Vaishnavi Papudesi Babu, A20527963)
-*/ 
-
-
 ### Submission folder includes - 
         ├── dberror.c
         ├── dberror.h
